@@ -7,3 +7,5 @@ Sin function
 cos function
 
 cot function
+
+final version
